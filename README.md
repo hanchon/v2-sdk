@@ -1,5 +1,20 @@
 # Uniswap SDK
 
+Fork just to be used with [hanchond](https://hanchond.com) for local testing
+
+## EnvVars
+
+process.env.CHAINID
+process.env.FACTORY_ADDRESS
+process.env.INIT_CODE_HASH
+process.env.DENOM_SYMBOL
+process.env.DENOM_NAME
+process.env.WRAPPED_TOKEN_ADDRESS
+process.env.WRAPPED_TOKEN_DECIMALS
+process.env.WRAPPED_TOKEN_SYMBOL
+process.env.WRAPPED_TOKEN_NAME
+
+
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/Uniswap/uniswap-sdk/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-sdk)
 [![npm version](https://img.shields.io/npm/v/@uniswap/sdk/latest.svg)](https://www.npmjs.com/package/@uniswap/sdk/v/latest)
